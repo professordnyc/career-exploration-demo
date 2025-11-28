@@ -1,0 +1,15 @@
+{
+  "name": "Alex Student",
+  "education": "B.A. Psychology, Class of 2025",
+  "skills": ["Research", "Data Analysis", "Python", "Communication"],
+  "experiences": [
+    {
+      "role": "Research Assistant",
+      "organization": "QC Psychology Lab"
+    },
+    {
+      "role": "Intern",
+      "organization": "Community Health Center"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Data Analyst Intern",
+    "company": "HealthTech Solutions",
+    "location": "New York, NY",
+    "skills_required": ["Python", "Data Visualization", "Communication"]
+  },
+  {
+    "title": "Research Associate",
+    "company": "Biotech Innovations",
+    "location": "Boston, MA",
+    "skills_required": ["Laboratory Skills", "Research", "Teamwork"]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "badge_resume_upload",
+    "name": "Resume Explorer",
+    "description": "Uploaded your resume for AI insights",
+    "earned": true
+  },
+  {
+    "id": "badge_alumni_paths",
+    "name": "Alumni Connector",
+    "description": "Explored 3 alumni career paths",
+    "earned": false
+  },
+  {
+    "id": "badge_skill_builder",
+    "name": "Skill Builder",
+    "description": "Identified and addressed a skill gap",
+    "earned": false
+  }
+]

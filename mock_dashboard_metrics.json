@@ -1,0 +1,10 @@
+{
+  "total_resumes_uploaded": 25,
+  "top_skills": ["Python", "Research", "Communication"],
+  "badges_earned": {
+    "Resume Explorer": 20,
+    "Alumni Connector": 10,
+    "Skill Builder": 5
+  },
+  "popular_queries": ["graduate school", "internships", "data science careers"]
+}
