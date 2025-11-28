@@ -1,5 +1,7 @@
 # Career Exploration Demo App
 
+app url: https://ai-enhanced-career-g-mpwx.bolt.host
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project is a lightweight, clickable prototype designed to showcase how students can:
